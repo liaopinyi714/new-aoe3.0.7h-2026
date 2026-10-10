@@ -1,5 +1,16 @@
 # 帝国时代课程项目：用 AI Agent 完成可运行的游戏策略
 
+## 快速获取 UsrAI 提交文件
+
+**只需要 AI 代码的同学，直接获取下面两个文件：**
+
+| 文件 | 用途 | 查看源码 | 原始文件 |
+| --- | --- | --- | --- |
+| **UsrAI.cpp** | 完整玩家策略实现 | [打开 UsrAI.cpp](UsrAI.cpp) | [保存 UsrAI.cpp](https://raw.githubusercontent.com/liaopinyi714/new-aoe3.0.7h-2026/main/UsrAI.cpp) |
+| **UsrAI.h** | 玩家 AI 类与框架接口 | [打开 UsrAI.h](UsrAI.h) | [保存 UsrAI.h](https://raw.githubusercontent.com/liaopinyi714/new-aoe3.0.7h-2026/main/UsrAI.h) |
+
+打开“原始文件”后可另存为对应文件名。若课程要求提交这两个文件，请同时上传 `.cpp` 和 `.h`，并先确认课程框架接口一致。
+
 这是一个基于 **C++14、Qt 5 和 qmake** 的即时战略课程项目。仓库公开完整游戏源码、四张地图、运行所需资源包、学生策略，以及从需求分析到测试提交的学习材料。目标是在发展经济、抵御敌军和推进战线后，**由祭司转化敌方攻城武器厂，获得胜利**。
 
 项目基于课程提供的游戏框架开展，学生策略主要位于 [UsrAI.cpp](UsrAI.cpp) 和 [UsrAI.h](UsrAI.h)。游戏引擎、素材和第三方组件保留原有来源与署名。本仓库的重点是展示：如何把观察到的问题转成明确需求，让 Agent 读取真实接口、编写代码、验证结果，并由学生持续测试和作出策略决策。

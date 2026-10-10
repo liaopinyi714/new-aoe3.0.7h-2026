@@ -1,0 +1,36 @@
+# qmake / Qt Creator / compiler output
+.build/
+build/
+build-*/
+debug/
+release/
+Makefile*
+.qmake.stash
+object_script.*
+ui_*.h
+moc_*
+qrc_*.cpp
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.a
+*.pro.user*
+*.code-workspace
+.vs/
+.vscode/
+# Runtime recordings, private reports and local experiments
+*.log
+*.video
+*.docx
+*.pdf
+*.bak
+*.tmp
+__pycache__/
+.env
+.env.*
+private/
+test-output/
+# res.rcc and all four .njust maps intentionally remain tracked.

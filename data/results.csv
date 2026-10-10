@@ -1,0 +1,12 @@
+sample,outcome,frame,score,wall_seconds,map,rotation
+R01,win,31154,499,126,unknown,unknown
+R02,win,34163,535,138,unknown,unknown
+R03,loss,32740,493,131,unknown,unknown
+R04,win,33297,523,134,unknown,unknown
+R05,loss,33467,519,135,unknown,unknown
+R06,win,30085,487,130,unknown,unknown
+R07,win,33597,501,135,unknown,unknown
+R08,win,34008,525,139,unknown,unknown
+R09,win,34062,529,140,unknown,unknown
+R10,win,34131,553,204,unknown,unknown
+R11,win,32617,517,189,unknown,unknown

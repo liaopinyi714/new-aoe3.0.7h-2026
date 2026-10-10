@@ -1,0 +1,14 @@
+* text=auto
+# Keep original game bytes reproducible across core.autocrlf settings.
+*.cpp -text
+*.h -text
+*.hpp -text
+*.ui -text
+*.pro -text
+*.md text eol=lf
+*.py text eol=lf
+*.ps1 text eol=crlf
+*.json -text
+*.csv text eol=lf
+*.njust -text linguist-generated=true
+*.rcc binary
